@@ -1,0 +1,3 @@
+API_KEY = "123456"  # replace with a valid api key
+BASE_URL = "http://immich.host.name/api"  # replace as needed
+upload_folder = "\var\www"
